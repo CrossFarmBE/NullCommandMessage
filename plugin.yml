@@ -1,0 +1,6 @@
+name: NullCommandMessage
+main: JunDev76\NullCommandMessage\NullCommandMessage
+version: 1.0.0
+author: JunDev76
+api:
+- 4.0.0
